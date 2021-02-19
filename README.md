@@ -1,6 +1,6 @@
 ### Hi 👋👨‍💻
 
-<img src="https://github.com/danielle-o-n/Rocketseat/blob/main/LaunchBase/imgs/men.svg" width="550px" align="right" alt="Danielle Oliveira">
+<img src="img/pn.png" width="550px" align="right" alt="Danielle Oliveira">
 
 <p align="left"> 
   Desenvolvedora em ascensão, buscando algo real e emocionante. Gosta de aprender coisas novas e quer ser boa em tudo que faz. 
