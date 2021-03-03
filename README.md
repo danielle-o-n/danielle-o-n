@@ -1,6 +1,6 @@
 ### Hi 👋👨‍💻
 
-<img src="https://github.com/danielle-o-n/danielle-o-n/blob/main/men.svg" width="250px" align="right" alt="Danielle Oliveira">
+<img src="https://github.com/danielle-o-n/danielle-o-n/blob/main/men.svg" width="250px" align="right" margin-right="5px" alt="Danielle Oliveira">
 
 <p align="left"> 
   Desenvolvedora em ascensão, buscando algo real e emocionante. Gosta de aprender coisas novas e quer ser boa em tudo que faz. 
